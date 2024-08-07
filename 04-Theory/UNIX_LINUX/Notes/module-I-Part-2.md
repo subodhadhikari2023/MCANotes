@@ -12,3 +12,7 @@ and one that is executed on behalf of the user.
 (that is, changes the state of the mode bit to 0). Thus, whenever the operating system gains control of the computer, it is in kernel mode. The system always
 switches to user mode (by setting the mode bit to 1) before passing control to
 a user program. 
+
+
+## System Call
+
